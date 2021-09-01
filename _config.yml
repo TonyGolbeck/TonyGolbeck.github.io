@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site settings
 
 # REQUIRED CHANGES
@@ -25,3 +26,6 @@ rouge-theme: igorpro
 markdown: kramdown
 include: [_data]
 
+=======
+theme: jekyll-theme-cayman
+>>>>>>> 3a0b935ba0db7015c0ce6c6108a8b783ab111107
